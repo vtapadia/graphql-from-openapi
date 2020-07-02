@@ -1,0 +1,21 @@
+{
+  "name": "graphql-from-openapi",
+  "version": "1.0.0",
+  "description": "GraphQL from OpenAPI specs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "openapi",
+    "loopback"
+  ],
+  "author": "Varesh Tapadia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.2.0",
+    "openapi-to-graphql": "^2.2.2"
+  }
+}
